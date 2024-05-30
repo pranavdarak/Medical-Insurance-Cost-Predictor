@@ -1,7 +1,7 @@
 
 # Medical Insurance Cost Predictor
 
-![Medical Insurance Cost Predictor]
+
 ## Overview
 
 This project aims to predict medical insurance costs using machine learning techniques. By leveraging a dataset containing information such as age, gender, BMI, number of children, smoker status, and region, we utilize linear regression to estimate the insurance costs for individuals.
